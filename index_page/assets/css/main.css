@@ -3385,7 +3385,7 @@ input, select, textarea {
 #iframe_search{	
 	/* Version 1 */
 
-	width: 99.99%; height: 700px; bottom: 100px;position:relative;  margin-top: 100px;
+	width: 99.99%; height: 551px; bottom: 100px;position:relative;  margin-top: 100px;
 	overflow-y: hidden;	overflow-x:hidden;
 
 	/* Version 2 */
